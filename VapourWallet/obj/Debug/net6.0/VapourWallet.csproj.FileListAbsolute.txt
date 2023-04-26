@@ -1,0 +1,30 @@
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\bin\Debug\net6.0\VapourWallet.exe
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\bin\Debug\net6.0\VapourWallet.deps.json
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\bin\Debug\net6.0\VapourWallet.runtimeconfig.json
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\bin\Debug\net6.0\VapourWallet.dll
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\bin\Debug\net6.0\VapourWallet.pdb
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.csproj.AssemblyReference.cache
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.AssemblyInfo.cs
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.dll
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\obj\Debug\net6.0\refint\VapourWallet.dll
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.pdb
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.genruntimeconfig.cache
+C:\Users\mateu\Desktop\VapourWallet\VapourWallet\obj\Debug\net6.0\ref\VapourWallet.dll
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\bin\Debug\net6.0\VapourWallet.exe
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\bin\Debug\net6.0\VapourWallet.deps.json
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\bin\Debug\net6.0\VapourWallet.runtimeconfig.json
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\bin\Debug\net6.0\VapourWallet.dll
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\bin\Debug\net6.0\VapourWallet.pdb
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.csproj.AssemblyReference.cache
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.AssemblyInfo.cs
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.dll
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\obj\Debug\net6.0\refint\VapourWallet.dll
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.pdb
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\obj\Debug\net6.0\VapourWallet.genruntimeconfig.cache
+C:\Users\mateu\Desktop\3 github projects\VapourWallet\VapourWallet\obj\Debug\net6.0\ref\VapourWallet.dll
